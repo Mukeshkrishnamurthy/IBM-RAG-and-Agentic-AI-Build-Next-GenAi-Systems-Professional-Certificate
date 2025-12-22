@@ -1,7 +1,7 @@
 # IBM RAG and Agentic AI Professional Certificate
 Build real-world AI with RAG and agentic AI. Use AI tools to streamline automation, drive innovation & take your career further, faster.
 
-# [IBM RAG AND AGENTIC AI](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
+# [IBM RAG AND AGENTIC AI PROFESSIONAL CERTIFICATE](https://www.coursera.org/professional-certificates/ibm-rag-and-agentic-ai)
 
 <img height="100" src="https://user-images.githubusercontent.com/67054356/132362689-31859a26-5d52-4eff-a4c4-ee6a8fd2f16c.png">
 
