@@ -32,12 +32,13 @@ This program is ideal for software developers, machine learning engineers, data 
 Throughout this program, you’ll complete hands-on projects and labs, gaining practical experience in building AI applications with generative, retrieval-augmented, and agentic techniques.
 
 # Projects
-•	Develop prompt engineering techniques and LangChain prompt templates
-•	Build smart AI applications by empowering LLMs with LangChain
-•	Set up a Gradio interface to interact with your models
-•	Implement function calling and integrate external tools for context-aware responses
-•	Conduct similarity searches on text using Chroma Vector DB
-•	Build and utilize your own data visualization agent
+*	Develop prompt engineering techniques and LangChain prompt templates
+*	Build smart AI applications by empowering LLMs with LangChain
+*	Set up a Gradio interface to interact with your models
+*	Implement function calling and integrate external tools for context-aware responses
+*	Conduct similarity searches on text using Chroma Vector DB
+*	Build and utilize your own data visualization agent
+  
 At the end of this program, you’ll complete a real-world capstone project specifically designed to showcase your newly learned AI application skills.
 </center>
 
